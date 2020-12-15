@@ -1,2 +1,1 @@
-# anime-piracy-wiki
- The wiki r/AnimePiracy
+// TODO: Write a style guide for the wiki for future references.
