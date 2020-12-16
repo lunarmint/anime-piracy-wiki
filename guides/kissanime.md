@@ -1,4 +1,4 @@
-# **How to bypass the Adblock ban in KissAnime
+# **How to bypass the Adblock ban in KissAnime**
 
 &nbsp;
 
