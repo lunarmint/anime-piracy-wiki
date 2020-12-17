@@ -1,3 +1,7 @@
-Please refer to `STRUCTURE.txt` for my current planning of the wiki structure. It is currently build according to it.
+# **Style guide:**
 
-// TODO: Write a style guide for the wiki for future references.
+The style guide for the wiki is based on the [Reddit-flavored Markdown](https://www.reddit.com/wiki/markdown).
+
+**Headings:**
+
+- The main heading for each section should use one leading hash `#` as a level 1 header combined with double asterisk in the format `**Header**` 
