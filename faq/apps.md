@@ -6,7 +6,7 @@
 
 ### **Are there any apps for Android and iOS?**
 
-  > Please check out our subreddit's [index](https://ranimepiracy.github.io/index/) in the 'Application' section.
+  > Please check out our subreddit's [index](https://ranimepiracy.github.io/index/) in the 'Application' section for a list of apps on various platforms.
 
 &nbsp;
 
