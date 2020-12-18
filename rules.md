@@ -2,6 +2,8 @@
 
   > In order to reduce spam on our subreddit, all "where can I find?" submissions must be posted within the megathread.
 
+  > *Failure to abide by this rule will result in a temporary ban from the subreddit.*
+
 &nbsp;
 
 ---
@@ -112,15 +114,7 @@
 
 ## **Rule 8: Submission must be anime piracy related.**
 
-  > Submissions must be related to the topic of anime piracy.
-
-  > Other places your post might be better suited for:
-
-  >  > - General anime content belongs in /r/anime. 
-
-  >  > - General piracy content belongs in /r/piracy. 
-
-  >  > - General VPN content belongs in /r/vpn.
+  > Submissions must be related to the piracy of media surrounding "weeb" culture such as: anime, manga, light novels, visual novels, hentai, and games.
 
 &nbsp;
 
