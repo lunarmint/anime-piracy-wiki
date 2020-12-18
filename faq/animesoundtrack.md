@@ -1,5 +1,7 @@
 # **Anime soundtrack FAQ**
 
+ > Our [index](https://ranimepiracy.github.io/index/) will feature a new anime soundtrack section soon. In the mean time, please check out the lists below.
+
 &nbsp;
 
 ---
