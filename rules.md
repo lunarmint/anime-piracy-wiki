@@ -23,8 +23,8 @@ Topics that have been recently or frequently discussed or that can be answered b
 Direct links to streams, torrents, downloads, and file hosting services are not allowed. All communities on Reddit are obligated to abide by Reddit's content policy. These are non-optional policies that are enforced on every subreddit. The [reddit content policy](https://www.redditinc.com/policies/content-policy) explicitly states:
 
   > **Rule 7:**
-
-  >  > Keep it legal, ***and avoid posting illegal content*** or soliciting or facilitating illegal or prohibited transactions.
+  > 
+  > Keep it legal, ***and avoid posting illegal content*** or soliciting or facilitating illegal or prohibited transactions.
 
 This means despite being a piracy subreddit, we must have strict restrictions in place regarding what sort of content is not allowed. Most notably, this means that links to pirated content are off-limits.
 
@@ -101,10 +101,6 @@ Submissions that contain false claims or encourage fear mongering will be remove
 
 Advertisements and self-promotion for apps, services, websites, etc. must be approved by the mod team beforehand.
 
-You can click [here](https://www.reddit.com/message/compose?to=%2Fr%2Fanimepiracy) to contact the mod team.
-
-*Failure to abide by this rule will result in having your service permanently filtered from posts and comments.*
-
 &nbsp;
 
 ## **Rule 7: No personal attacks or witchhunts.**
@@ -135,7 +131,7 @@ Submissions must be in clear and discernible English. We are an English-speaking
 
 ---
 
-Submissions containing requests for invites/account credentials to team drives, private trackers, private forums and any other site will be removed. Offering invites and/or sharing accounts on a public forum is a bannable offense in most private communities and sites.
+Do not offer or request (whether obvious or implied) invites to team drives, trackers, forums, or any other communities.
 
 &nbsp;
 
