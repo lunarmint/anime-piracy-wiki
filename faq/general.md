@@ -22,7 +22,7 @@
 
 &nbsp;
 
-### **How large is a typical 1080p anime episode should be?**
+### **How large is a typical high quality 1080p anime episode should be?**
 
   > 1080p is just the resolution on the surface and file size is not a reliable indicator for video quality. The actual quality depends on the bitrate, which again depends on how it was encoded and the compression level. The two most common video compression codecs used to encode videos are H.264 and H.265 (also known as HEVC). H.264 is the older codec and plays better on older computers. H.265 is newer and has much better compression, meaning that it takes more power to decode but gives much better video quality at lower bitrates than H.264.
 
