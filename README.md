@@ -1,82 +1,29 @@
-# **Style guide:**
+This wiki is written using [Reddit-flavored Markdown](https://www.reddit.com/wiki/markdown) but styled based on [Wikipedia's Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#National_varieties_of_English).
 
-The style guide for the wiki is based on the [Reddit-flavored Markdown](https://www.reddit.com/wiki/markdown).
+When adding new content, please try to follow the style format that is currently being used (use the links above for references). When unsure, check out Wikipedia's style guide linked above, there are plenty of examples how stuffs should look like, that it should be adequate to cover most if not all the possible cases one might think of when adding new contents without even have to actually read their guideline.
+
+Few things to note about Reddit's Markdown:
+
+- When using an ordered list (numbers), any sublist will automatically be an ordered list as well, no matter what you do. The same applies for an unordered list (bullet points).
+
+
+- Make use of double line breaks to make the lists feels more spacious, especially on lengthy ones. The example is right here in this bullet point list. This method is preferred over the `\ \` for Old Reddit compatibility 
+
+
+- Same thing applies to the use of `.` instead of `)` when defining an ordered list. Compatibility stuffs.
+
+
+- For full information about content support difference between Old Reddit and New Reddit, refer to their wiki [here](https://www.reddit.com/wiki/markdown#wiki_differences_in_content_support_between_old_reddit_and_new_reddit) as well as their [Reddit-flavored Markdown](https://www.reddit.com/wiki/markdown). Always choose the syntax with the highest compatibility.
+
+
+Other notes:
+
+- Reddit's content table indent absolutely sucks. To improve the navigation in the table, especially in a large guide with many sub-section level, use a `►` before the larger titles. Take a look at `torrent.md` as an example.
+
+
+- If you don't want/need a sub-section to show up in the content table, don't use the `#` before the title.
+
+
+- Add one `&nbsp;` at the end the content in every `.md` to make the EOF feels more natural visually.
 
 &nbsp;
-
----
-
-### **Headings:**
-
-  > The main heading for each section should use one leading hash `#` as a level 1 header with content wrapped in double asterisks. Example:
-
-  >  > `# **Header 1**`
-
-### **Body:**
-
-  > Smaller headings will typically use 3 leading hashes `###` as a level 3 header with content wrapped in double asterisks. Level 1 and level 2 headings don't have their font size difference distinguished enough. Example:
-
-  >  > `### **Header 3**`
-
-  > After each large section, e.g from 'Guide' to 'Troubleshooting', separate them by using `&nbsp;` and `---`. `&nbsp;` is used to force create a line break. Example:
-
-
-```
-
-`# **Guide A**`
-
-`Foo text.`
-
-`&nbsp;`
-
-`---`
-
-`# **Guide B**`
-
-`&nbsp;`
-
-```
-
-  > To improve the raw format readability (no impact to the actual styling), add an extra empty line break after every block or line of text (like this current style guide you're reading opened it in raw format).
-
-  > After each smaller headings, start a new text block using `>`. Example:
-
-```
-
-  >  > This is a new text block!
-
-```
-
-  > If there is a smaller sub-section, use another `>`. Example:
-
-```
-
-  > This is a text block!
-
-  >  > This is the sub-text block!
-
-```
-
-  > For an unordered list, use `-` to start the line with a bullet point. Example:
-
-```
-
-  - This is point A.
-
-  - This is point B.
-
-  - This is point C.
-
-```
-  
-  > For an ordered list, use a number (from 1 to n) followed with a dot. Example:
-
-```
-
-  1. I love cats!
-
-  2. I like cakes!
-
-  3. Don't change the order!
-
-```
