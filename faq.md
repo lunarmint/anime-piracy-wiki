@@ -12,7 +12,7 @@ If you want to contribute to the guide, please post it in our subreddit or conta
 
 ### **[General](https://example.com/)**
 	
-  > Internet topics and subreddit usage in general.
+Internet topics, subreddit usage and trivial questions.
 
 &nbsp;
 
