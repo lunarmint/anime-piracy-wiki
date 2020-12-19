@@ -1,8 +1,8 @@
 # **Auto-downloading new episodes via Torrent**
 
-&nbsp;
-
 ---
+
+&nbsp;
 
 In this guide, I will be using the qbittorrent client and the HorribleSubs RSS feed, but the same process applies to other clients/feeds too!
 
@@ -46,9 +46,9 @@ Also, if you don't want to use HorribleSubs, you can use any other provider such
 
 Happy pirating!
 
-&nbsp;
-
 ---
+
+&nbsp;
 
 Written by u/Altin1337 - [Original Post](https://www.reddit.com/r/animepiracy/comments/cv94l8/guide_autodownloading_new_anime_episodes/)
 

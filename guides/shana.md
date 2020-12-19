@@ -1,14 +1,16 @@
 # **Automate downloads with taiga2shana**
 
-&nbsp;
-
 ---
-
-Note: I am not the creator of this project, I'm only posting this on behalf of the creator who does not have a reddit account. You can contact them via Discord (fool#6085) or on Github.
 
 &nbsp;
 
+**Note**
+
+I am not the creator of this project, I'm only posting this on behalf of the creator who does not have a reddit account. You can contact them via Discord (fool#6085) or on Github.
+
 ---
+
+&nbsp;
 
 Hi everyone, I'd like to share a little project I wrote over the past year + a workflow I've personally been using to reduce the manual work involved every season in downloading anime. This helps a lot especially if you're an avid anime watcher and follow 10+ anime per season. Everything from auto-downloading new releases to selecting the "correct" resolution is automated.
 
@@ -59,9 +61,9 @@ Why don't I just use sonarr or an RSS feed from an existing torrent tracker?
 
 There are two main benefits to using this app over things. Firstly, this app gets the correct resolution of the anime based on the resolution of the actual source material (some anime is produced in >720p, others are not). Secondly, if you add your anime to a site such as MyAnimeList or AniList, this saves the work of having to add to both that list as well as another program (Taiga manages everything).
 
-&nbsp;
-
 ---
+
+&nbsp;
 
 Written by u/jsefff - [Original Post](https://www.reddit.com/r/animepiracy/comments/e2t6gl/automate_your_seasonal_anime_downloads/)
 

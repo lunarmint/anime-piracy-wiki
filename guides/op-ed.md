@@ -1,8 +1,8 @@
 # **How to download every OP/ED from your MAL or AniList account**
 
-&nbsp;
-
 ---
+
+&nbsp;
 
 I was looking for a way to download every opening and ending from my AniList. Themes.moe is a super useful site that lets you search for your profile and it will show each OP and ED associated with all the anime in your list. However it only lets you save them as webm files which isn't useful for me as I only want the audio to put on iTunes.
 
@@ -38,9 +38,9 @@ Great! All of the OP/EDs should now be completed!
 
 **NOTE:** The songs downloaded are TV size.
 
-&nbsp;
-
 ---
+
+&nbsp;
 
 Written by u/ZeMuffenMan - [Original Post](https://www.reddit.com/r/animepiracy/comments/d44j33/tutorial_how_to_download_every_oped_in_your/)
 

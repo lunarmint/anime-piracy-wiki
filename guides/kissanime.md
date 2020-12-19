@@ -1,8 +1,8 @@
 # **How to bypass the Adblock ban in KissAnime**
 
-&nbsp;
-
 ---
+
+&nbsp;
 
   > 1. Make sure you're using an [official site](https://www.reddit.com/r/KissAnime/wiki/kisscommunitylinks)!
 
@@ -24,9 +24,9 @@ If you want to use a free, safe VPN, use [ProtonVPN](https://protonvpn.com/). It
 
 If you want a slightly more comprehensive guide, follow [this guide](https://www.reddit.com/r/KissAnime/comments/awmkrz/updatedguide_how_to_bypass_the_adblock_ban/)!
 
-&nbsp;
-
 ---
+
+&nbsp;
 
 Written by u/YangWenli1 - [Original Post](https://www.reddit.com/r/KissAnime/comments/d884j2/simplifiedguide_how_to_bypass_the_adblock_ban/)
 

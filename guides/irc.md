@@ -1,8 +1,8 @@
 # **How to use IRC/XDCC**
 
-&nbsp;
-
 ---
+
+&nbsp;
 
 IRC (Internet Relay Chat) is a protocol that allows communication in the form of text. XDCC is a computer file sharing method which relies on IRC as a hosting service.
 

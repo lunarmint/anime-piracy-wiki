@@ -4,7 +4,7 @@
 
 ---
 
-## **Reddit Meta**
+## **► Reddit Meta**
 
 - [Rules](https://www.reddit.com/r/animepiracy/about/rules/)
 - [Frequently Asked Questions](https://www.reddit.com/r/animepiracy/wiki/faq)
@@ -13,7 +13,7 @@
 
 &nbsp;
 
-## **Resources**
+## **► Resources**
 
 - [The Index](https://ranimepiracy.github.io/index/)
 
