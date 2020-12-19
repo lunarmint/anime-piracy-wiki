@@ -2,9 +2,7 @@
 
 ---
 
-In order to reduce spam on our subreddit, all "where can I find?" submissions must be posted within the megathread.
-
-*Failure to abide by this rule will result in a temporary ban from the subreddit.*
+All content sourcing and "where can I find?" style submissions must be posted in the megathread.
 
 &nbsp;
 
@@ -134,4 +132,3 @@ Submissions must be in clear and discernible English. We are an English-speaking
 Do not offer or request (whether obvious or implied) invites to team drives, trackers, forums, or any other communities.
 
 &nbsp;
-
