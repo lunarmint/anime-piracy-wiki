@@ -1,134 +1,144 @@
 # **A Complete Guide To Torrenting**
 
 ---
-
 &nbsp;
 
-## **► Guide**
-
+## **► Basics**
 ---
-
 &nbsp;
 
-### **Requirements:**
+### **Why should I use torrents?**
 
-1. At least 1 brain cell (essential).
-2. An internet connection.
-3. A device (preferably a PC) and average knowledge on how to use it.
-4. Time.
+To most people, streaming sites seem easy and torrents too complicated. But, a properly automated system with torrents is just as simple and allows for a ton of flexibility. Use torrents if you want - 
 
-&nbsp;
-
-### **Introduction**
-
-You might've heard of "torrents". Is that a new buzzword that kids use nowadays? What the f@&% is it? Well, your friend [REDACTED] is here to answer everything you possibly want and more!
+* The absolute best quality
+* Smaller sizes at the same quality as streaming for low data caps
+* An option to pick and customize the kind of subtitles you want to watch
+* To be able to find anything you want to watch without hopping through different sites or begging on places like r/animepiracy
 
 &nbsp;
 
 ### **What is torrenting?**
 
-Chances are, if you've heard of torrenting, it'd mostly have been in a negative or not-so legal context, but let me assure you that torrents are perfectly legal. It's just a medium/method to transfer files. A tool is neither good or bad, but the purpose it is put to use for earns it a tag. The same way, torrenting is legal (no wonder clients exist) but the files transferred by it may vary. 
+BitTorrent is a protocol for P2P file sharing. Peer-to-peer means that files are not transferred from a single, centralized server to your computer, but rather by a decentralised network of peers consisting of users like yourself.
 
-Now, coming back, torrenting is a **peer-to-peer** file transfer system, meaning that files are not served/transferred from a centralised, single server to your computer, but rather by a **decentralised** network of "peers". There are many advantages to this as you can choose what files to download, and downloads can be resumed easily. Further, you need not depend on the uptime of a server. Some disadvantages also exist such as when there are no peers (or they are offline) on a torrent, so it becomes unavailable for you to download. Obviously, the merits outweigh the demerits, and hence it's widespread popularity.
+The process of sharing files through torrents is completely legal. Transferring copyright infringing files may be illegal depending on your local laws and whether you get caught.Copyright organizations scrape lists of peers, and send takedown notices to the internet service provider of users participating in the swarms of files that are under copyright. In some jurisdictions, copyright holders may launch lawsuits against uploaders or downloaders for infringement. DMCA notices are much more common for Movies/TV shows than Anime. 
 
-&nbsp;
+The solution is to use a [VPN](faq-vpn) or [seedbox]() or [private trackers]() if your country or isp enforces this
 
-### **How do torrents work and what are some "buzzwords" associated with it?**
-
-The file to be distributed is split into "pieces" and distributed to the swarm and the size of the piece depends on the file size. Each peer only uploads his/her particular piece to the rest of the swarm and simultaneously downloads other pieces from the swarm. The pieces are then assembled back into the full file. Each piece is guarded by a cryptographic ["hash"](https://en.wikipedia.org/wiki/Cryptographic_hash_function) to prevent tampering.
+To get started, grab a torrent client from the list below
 
 &nbsp;
 
-### **What are private trackers?**
+### **Torrent Clients**
 
-[This](https://wiki.installgentoo.com/index.php/Private_trackers) wiki page, originally written for 4chan's /g/ board, is a very good resource that explains private trackers in detail. Note that some of the information is out of date (for example, it states that applications are a viable path into AnimeBytes when they haven't accepted applications in years and probably never will again) but it's still a great resource.
+This is the program where you load torrents, it connects to other peers/seeds and downloads the files. 
 
-Please refer to the "glossary" section for the "buzzwords" and what they mean.
+Recommended clients - 
 
-&nbsp;
+**PC:**
 
-### **Alright, enough intros. How do I torrent?**
+* [qBittorrent](https://www.qbittorrent.org/download.php) (Recommended) - Open-source torrent client. Has a built-in search feature that searches popular public trackers through plugins, and can also be connected with [Jackett](https://github.com/Jackett/Jackett)
+* [Transmission](https://transmissionbt.com/about/) - Simple and lightweight open-source torrent client
+* [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Open-source torrent client
+* [rTorrent](https://github.com/rakshasa/rtorrent) - Terminal-based torrent client for linux
+* [ruTorrent for rTorrent](https://github.com/Novik/ruTorrent) - Web management UI for rtorrent
+* [Flood for rTorrent](https://github.com/Flood-UI/flood) - Sleek web management UI for rtorrent
 
-First, you go get a bittorrent client. This is basically a program that takes care of connecting and communicating with the tracker and piecing together the pieces you downloaded, so you can sit back and just monitor the progress. There are many clients available and the choice of client is entirely up to the reader. [Here](https://www.reddit.com/r/animepiracy/wiki/faq#wiki_torrent_faq) are some recommendations.
+* **[Windows]** [uTorrent 2.2.1 Build 25302](http://web.archive.org/web/2011*/http://download.utorrent.com/2.2.1/utorrent.exe) - If you're still set on using uTorrent, this is a stable old build of uTorrent, before it turned to crap and had malware added. It was released on May 18, 2011. Set `net.discoverable` to False in settings and disable the Web GUI to mitigate security vulnerabilities that were later discovered. You can grab the installer from the wayback machine, as it has it cached. Just navigate to a close date past the release date noted earlier. You can check which version you have downloaded by checking the file's properties, in the details tab.
 
+Note: Bittorrent Inc. has bundled malware (a bitcoin miner) into [uTorrent in the past](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825) - it is not trustworthy. Bittorrent (the torrent client) is owned by the same company.
 
-> **WARNING:** Before you proceed to the next step, please do check your local laws about the legality of downloading copyrighted material. The author disclaims any responsibility for any legal trouble the reader may get themselves into. If you're unsure, use a VPN (Virtual Private Network) to "hide" or "mask" your IP (internet protocol) address from the authorities and also "enrypt" or "mask" the information being transferred. Always use a VPN that doesn't keep logs. For more information, refer [here](https://www.reddit.com/r/animepiracy/wiki/faq#wiki_vpn_faq). Your IP Address is visible to all the members of the swarm, and there is a possibility of your IP being logged and your Internet Service provider being sent a notice.
+Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
 
+**Android:**
 
-Then, you find a suitable torrent tracker. There are many available, so it'd be tedious (and potentially illegal) to list all of them. Just find them on r/Piracy's [megathread](https://www.reddit.com/r/piracy/wiki/megathread). Once you find a file you like, you're probably going to have 2 options- magnet link, .torrent files. It doesn't really matter which, but if you're sensitive about bloating up your hard drive with a large number of files (a torrent file is a small file, so it will take up negligible storage), magnet links might be an option.
+* [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) - Ad-free, open-source torrent client for Android.
 
-Copy the magnet link or download the torrent file. You should have the magnet link in your clipboard or torrent in a folder you remember. The author will be using the client [Qbittorrent](https://www.qbittorrent.org/) for demonstration, but it should be similar for other clients too.
+* [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) - Popular torrent client for Android.
 
-- Step 1: Open your torrent client. You should see something like [this](https://files.catbox.moe/y0m598.JPG). I have quite a few files downloaded, hence there are a lot of entries. As you can see, there's a lot of information, so let's look at it one-by-one.
-  - The main window: The entire central section that I've censored the name section of. This is a list of all the torrents you have downloaded.
-  - The torrent detailed information window: The section right below the main window. It has further information such as the number of peers, pieces, availability, upload/download speed, amount uploaded, amount downloaded, number of pieces, save path and other information.
-  
+* [Transdrone](https://f-droid.org/packages/org.transdroid.full/) - Remote torrent management app for your torrent client running on your main PC. Supports several torrent clients
 
-    
-- Step 2: Look at the [top bar](https://files.catbox.moe/dexwsf.JPG). Depending on whether you've chosen a torrent file or a magnet link, step(s) may vary.
-  
-  - Magnet link:
-     - Select the first "link" icon. You should see [this](https://files.catbox.moe/el0n6p.JPG). Paste your magnet link in the text box and and click "Download".
-  - .torrent file:
-     - Select the second "file" option. A file navigation window will appear, navigate to your .torrent file, select it and click "Ok".
-  
-    
-- Step 3: Regardless of which route you chose in the previous step, you should see [this](https://files.catbox.moe/vgakcw.JPG). The only relevant bit here is selecting your download location using the red highlighted button. You may also use the checkboxes to choose files to skip downloading, if the torrent has multiple files. Once that's done, you can choose "OK" to start torrent download.
-
-
-- Step 4: Congratulations! The torrent should now start downloading if there are peers. Click on the torrent listing in the main window to see additional information.
+* [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - Remote torrent management app with support for managing Sonarr / Radarr / Lidarr / Bazarr / Sickbeard / Couchpotato / Headphones
 
 &nbsp;
 
-### **What do I do after my file is done downloading?**
+### **How do I torrent?**
 
-You allow it to **seed** for a while. Seeding is the way you give back to the swarm you leech from. It's all a matter of personal preference on whether to seed and how much to seed, and thus a system called **ratio** has been introduced. Ratio is a number you obtain by dividing the amount uploaded by the amount downloaded. A ratio of 1 implies that you seeded as much as you leeched. Further, you may be seeding parallelly as you download, as you only require to possess the particular piece to upload.
+First, you need to find a torrent file or magnet link for the content you want to download. You'll find that on websites like nyaa. These sites are also called [trackers]()
+
+A .torrent file can be added to the client by simply opening by double clicking or browsing to the location and opening it from within the client.
+
+A magnet link can be pasted into the client or by clicking on it within the browser. It'll prompt for allowing your torrent client to open, check always allow on that for an easier experience.
+
+Most clients will begin leeching/downloading when you add the torrent, and being seeding/uploading once just a few pieces have downloaded, then will continue seeding after the torrent finishes downloading.
+
+**Important:** After the torrent is done downloading, you allow it to **seed** at least for a while, ideally forever. Seeding is the way you give back to the swarm you leech from. The ratio is your upload divided by download. A ratio of 1 implies that you seeded as much as you leeched. Further, you may be seeding parallelly as you download, as you don't need the whole file to seed.
+
+Don't worry if your upload speed is zero, it just means that you are available to seed, but there might be other peers with faster connections that are uploading to leechers.
 
 &nbsp;
 
-## **► Troubleshooting**
-
+## **► Advanced**
 ---
+&nbsp;
+
+### **qBittorrent Features**
+
+They're all available in most clients, I'm just using qBit as an example. The functionality is broadly divided into 3 tabs visible in the top bar - Transfers, Search and RSS. If they aren't visible, you can enable them from the View menu.
+
+**Transfers** - This is where you can see all the torrents, which can be filtered by status, category and tags in the left pane. Categories and tags can be updated by selecting the torrents > right click.
+
+**Search** - This is one of the most powerful features of qBittorrent. You need to enable search plugins by clicking the button at bottom left > check for updates. That will populate the list with some of the common trackers. Unfortunately, nyaa is not one of the default plugins, but it's available at http://plugins.qbittorrent.org with instructions on how to install them.
+
+A better method is to add multiple trackers through the default search plugin called Jackett. Jackett is a separate program which has to be installed and can be configured with most private and public trackers, this plugin allows qBittorrent to search through Jackett.
+
+**RSS** - This is the simplest way of automating downloads. It's easier to explain with an example, suppose you want to auto download any of the currently airing anime - 
+
+1) Copy the rss feed link from nyaa or subsplease
+
+2) Click "New Subscription" at top-left and paste the link, torrents will now show up in the middle pane.
+
+3) Open RSS downloader (top right) and click the new rule button next to "Download Rules"
+
+4) Give it any name and type the name of your anime in the field "Must Contain:"
+
+5) (Optional) Set the category, save path and other settings
+
+qBitorrent can be left running in the background, and it'll download the episode as soon as it comes out.
 
 &nbsp;
 
-### **My torrent doesn't start downloading or my torrent stays "stalled".**
+### **Connectability**
 
-Please check the number of peers you are connected to. The number outside the bracket is the number of peers you are connected to, currently, while the one inside the brackets is the number that are available totally. If the number is 0, please wait a while, or find another source. Also check whether you're done downloading.
+The concepts of connectability and port forwarding are all about the first step of connecting to peers, once you're connected, no matter how, you'll get the same speeds. However, a properly configured setup increases the pool of potential peers to connect to. This won't make a difference with torrents that have hundreds of seeds, but can drastically increase speeds on torrents with less seeds. A torrent client will still work with closed ports.
 
-&nbsp;
+**If your port is closed, you can only connect to those who have their port open.** If it's open, you can connect to everyone.
 
-### **My upload speed is always 0. Am I seeding?**
+**Make sure to enable DHT and PEX in your torrent client, especially if you're using public torrents.**
 
-You are available to seed, but there might be other peers with faster connections that are uploading pieces to leechers.
-
-&nbsp;
-
-## **► Frequently Asked Questions/Additional Information**
-
----
+The tracker is a server that gives you a list of peers to connect to. A few trackers are enough, please don't paste in huge tracker lists copied from random places, they don't help. Often, trackers aren't even needed when you have DHT/PEX enabled, though they do help with starting the process of finding more peers through PEX. If it's'a public torrent then all seeds/peers will find each other eventually using DHT/PEX regardless of any trackers.
 
 &nbsp;
 
-### **Is torrenting illegal?**
+### **Port Forwarding**
 
-File sharing via the [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) protocol isn't illegal but transferring copyright infringing files may be depending on your local laws. DMCA notices are much more common for Movies/TV shows than Anime. Use either a VPN, seedbox, or private tracker if your country or ISP enforces this.
+Port forwarding is essential to make sure you are fully connectable to maximize your speeds and ability to connect to other peers in a swarm.
 
-&nbsp;
+Your connection is assigned a public IP address by your ISP and your device is assigned a private/local IP address bu your router. On your computer, services which need to connect with other devices over any network run on a port. The IP address plus port number is it's identification, this combination can be used to access the service in the format IP:port.When you run the torrent client, it runs on a port on your computer's IP address, which is local and can only be accessed by devices connected to your home network. 
 
-### **What is "Port Forwarding" and what does it mean to be "connectable"?**
+This port on your internal IP has to be forwarded/connected to the equivalent port on your external/public IP. Once that is done, anyone over the internet will be able to connect to your torrent client through that port on your public IP as the connection will be forwarded by your router to where the torrent client is running on your internal network. Note that this is completely safe.
 
-Without going into too much detail, when you connect to the internet, your computer is assigned an [IP](https://en.wikipedia.org/wiki/IP_address)(Internet Protocol) address. This IP may either be Static(meaning your IP won't change when you disconnect and re-connect, usually used by websites, and might cost money) or Dynamic(meaning your ISP(Internet Service Provider) will assign you one everytime you connect). Now, even in your LAN(Local Area Network), there is another set of IP addresses being assigned by your router. On your computer, programs which want to interact/connect with the internet have to connect through a "[port](https://en.wikipedia.org/wiki/Port_(computer_networking))". 
+The port used by your client can be found in Settings > Connection. It is usually a number above 10000 or so. (preferably [49152 or higher](https://en.wikipedia.org/wiki/Ephemeral_port), some ISPs rate limit lower port numbers). **This port number should not be port 80 or 6881-6889.**
 
-Now, what is port forwarding? It is directly assigning a port of a machine on the internal IP to one on the external "visible" IP. What are the implications? Well, it just means that it facilitates more efficient and 2-way connections between the program(in this case, your torrent client) and the swarm and tracker, so your seeding efficiency or upload speeds are enchanced. In essense, if a request is sent to the external, forwarded port, it's transferred to the internal port which was assigned. However, the ports are not forwarded by default to due some security lapses arising from certain ports being open(for example, port 22, which is assigned to Telnet, is exploitable). However, forwarding a torrent client port is safe, and can lead to better communication with the swarm, which is what it means to be "connectable". Forwarding a port is not really necessary for the average user, but is recommended for private tracker users. Guide for qbittorrent to be added [here](https://github.com/R3D4CTED/piracy-basics/blob/main/portforwarding.md) soon.
-
-Use [this](http://portforward.com/) site for instructions on how to port forward for your router. Use [this](http://www.canyouseeme.org/) to check if the port of your torrent client is forwarded.
+Use http://www.canyouseeme.org to check if the port of your torrent client is forwarded. Use http://portforward.com for instructions on how to port forward for your router. If setting up a port forward in your network router do not use port triggering. Optionally, in your ISP router/modem, disable all things resembling flood protection, DDoS protection, traffic shaping, QOS etc.
 
 &nbsp;
 
 ### **What is a seedbox?**
 
-A seedbox is a service that leeches torrents for you and provides the files in a direct download format, or uploads them to a cloud drive of your choice. They also seed the torrents, and have high upload speed, so are used by Private Tracker users. Since the seedbox has a high upload speed compared to regular peers in the swarm, it is more likely to be chosen to upload pieces. Typical advantages:
+A seedbox is a server, a computer in a datacenter with high bandwidth/speeds. It's commonly used as a service that leeches torrents for you and provides the files in a direct download format, or uploads them to a cloud drive of your choice. They also seed the torrents, and have high upload speed, and so they're used by Private Tracker users. Since the seedbox has a high upload speed compared to regular peers in the swarm, it is more likely to be chosen to upload pieces. Typical advantages:
+
   - Faster download speeds, but obviously still limited to your own speed.
   - Avoiding copyright/dmca problems.
   - Seeding - A seedbox is on 24 hours seeding your torrents at high speeds, that allows you to maintain a good ratio on private (and public) trackers.
@@ -139,39 +149,39 @@ Check out r/seedboxes for more information. They are geared towards private trac
 
 &nbsp;
 
-### **What torrent clients are recommended?**
+## **► Trackers**
+---
+&nbsp;
 
-- Windows & macOS:
-  - [qBittorrent](https://www.qbittorrent.org/)
-  - [Deluge](https://deluge-torrent.org/)
-  
+### Public
 
-- Linux:
-  - [Transmission](https://transmissionbt.com/)
-  - [rTorrent](https://github.com/rakshasa/rtorrent)
+* Nyaa.si (mirror - meowinjapanese.cf)
+* AnimeTosho - Scrapes public trackers, it's useful for getting only the subtitles from a torrent
+* Anidex 
+* Nyaa.net
+* Rutracker (Russian)
 
+In general, nyaa.si is your best option for everything
 
-- Android:
-  - [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)
+Refer to this [detailed guide]() for finding anime on nyaa and elsewhere. If you're in a rush, try searching for these terms on nyaa - 
+
+* Erai-raws or Subsplease for seasonals
+
+* Releases from [SeaSmoke's Anime Index](https://docs.google.com/spreadsheets/d/1emW2Zsb0gEtEHiub_YHpazvBd4lL4saxCwyPhbtxXYM/htmlview#) or [A Certain Fansubber's Index](https://docs.google.com/spreadsheets/d/1PJYwhjzLNPXV2X1np-S4rdZE4fb7pxp-QbHY1O0jH6Q/htmlview) for completed anime
 
 &nbsp;
 
-### **What are the most popular torrent trackers/mirrors?**
+### Private
 
-- Public trackers/mirrors:
-  - Nyaa.si
-  - AnimeTosho
-  - Anidex 
-  - Nyaa.net
-  
+* AnimeBytes
+* BakaBT 
+* AnimeTorrents
+* U2 (raws/bdmv)
+* Skyeysnow (Chinese - open signup - raws/bdmv)
 
-- Private trackers:
-  - AnimeBytes
-  - U2
-  - BakaBT
-  - AnimeTorrents
+[This wiki page](https://wiki.installgentoo.com/index.php/Private_trackers), originally written for 4chan's /g/ board, is a very good resource that explains private trackers in detail. Note that some of the information is out of date (for example, it states that applications are a viable path into AnimeBytes when they haven't accepted applications in years and probably never will again) but it's still a great resource.
 
-Note that you can also find anime releases on most general, TV, movie, and HD trackers.
+There's also an updated [FAQ](https://pastebin.com/GWdYH33j) and more which you can find on the /g/ptg thread
 
 &nbsp;
 
@@ -193,46 +203,52 @@ AnimeBytes (AB) - recruits from select few top tier trackers and also has user i
 
 &nbsp;
 
-### **Who should I torrent from on nyaa.si for best subtitle and video quality?**
-
-Generally, torrenting from the green colored entries are encouraged since they are from the trusted users. However, it does not always necessarily means that everything with green entries are the absolute best you can get. It is usually subjective what someone would consider the best for them, but if you want to find a good balance between everything, we suggest you to try the [Anime Index](https://docs.google.com/spreadsheets/d/1emW2Zsb0gEtEHiub_YHpazvBd4lL4saxCwyPhbtxXYM/htmlview#) by u/-SeaSmoke-.
-
-&nbsp;
-
-# **► Glossary**
-
+## **► Glossary**
 ---
-
 &nbsp;
 
-- Peer: any person who is downloading or has downloaded a torrent.
+- Peer: any person who is uploading/downloading a torrent.
 
 - Swarm: the entire set of peers.
 
-- Tracker: a server that keeps track of the swarm and what pieces each peer is assigned and facilitates the interaction of peers. It is also the site that lists torrents in a searchable manner.
+- Seed - a peer who has finished downloading the torrent and is now only uploading it to other peers
 
-- Hash: it is a randomly generated "key" to some data.
+- Leech - a peer who is still downloading OR a user who downloads more than they upload
 
-- Leeching: the act of downloading a torrent.
+- Seeding - uploading to other peers in the swarm
 
-- Seeding: the act of uploading your assigned piece.<br>
+- Leeching - downloading from other peers in the swarm
+
+- Ratio - the number of bytes of data you've seeded to others divided by the number of bytes of data you've downloaded from others. If you download a 2GB movie, and you've seeded 1.5GB, your ratio on that torrent is 0.75 (1.5/2.0). Most clients will also display somewhere the overall ratio of all torrents in the client. If you join a private tracker, you'll likely have to maintain a minimum ratio to retain membership.
+
+- Tracker - a server that clients talk to to get up-to-date lists of peers from the swarm. Each torrent may have zero, one, or many trackers. Private trackers are websites that run their own private tracker. All torrents from a private tracker website will use only that private tracker.
+
+- Trackerless torrent - a torrent that doesn't use any trackers. Peers share lists of peers with each other instead.
+
+- DHT - distributed hash table, the basis of trackerless torrents. Basically it's a giant table that, as the name implies, is distributed among all torrent clients. This table basically functions like a giant distributed tracker of all torrents that use DHT
+
+- PEX - peer exchange. This protocol allows peers on the same torrent to exchange lists of peers with each other. It's not as powerful as DHT because it can't be used to join a new trackerless torrent; you have to know which peers to ask before you can ask.
+
+- Torrent file - a small file with a .torrent extension that you download to begin torrenting. Contains metadata about the torrent (checksum, list of files and their sizes, etc).
+
+- Magnet link - a link containing at minimum the checksum of the torrent. May also contain the torrent name and/or one or more trackers. Since the magnet link doesn't contain torrent metadata, the .torrent file must be downloaded from the swarm first before the actual torrent can begin. Without any trackers, a magnet link requires DHT to find initial peers and begin downloading the .torrent file.
+
+- Checksum/Hash - a fixed-length value that is calculated based on all of the data in the complete torrent that is intended to be unique to the specific torrent. Think of it like the torrent's unique ID. Used to identify the torrent to trackers and DHT
 
 &nbsp;
 
+## **► Related Subreddits**
 ---
-
-Written by u/V_Sharp [CC-BY-SA]
-
 &nbsp;
 
-# TO-DO
+/r/trackers - For discussion of public and private torrent trackers. No requests of specific pirated titles.
 
->Remove informal language.<br>
->Explain the rest of the tabs in the client.<br>
->~~Explain the importance of **connectability** and **port-forwarding**~~.<br>
->Add information for Advanced Users.<br>
->Add a tl;dr.<br>
-~~>Explain Seedboxes.~~<br>
->"Further Reading" section.<br>
->More sources for VPN information.<br>
->Explain trackers in detail (including private and public)<br>
+/r/Invites - Request and offer invites for private trackers that allow for invites to be distributed through such means.
+
+/r/OpenSignups - Announcements of private trackers that have opened up registration or applications. opentrackers.org is another great resource
+
+/r/VPN - Discussion of VPNs
+
+/r/VPNTorrents - Discussion of VPNs for the purpose of torrenting
+
+/r/torrents - For torrents dicussion and news
