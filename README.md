@@ -7,7 +7,7 @@ Few things to note about Reddit's Markdown:
 - When using an ordered list (numbers), any sublist will automatically be an ordered list as well, no matter what you do. The same applies for an unordered list (bullet points). I haven't found any workaround for this so far.
 
 
-- Make use of double line breaks to make the lists feels more spacious, especially on lengthy ones. The example is right here in this bullet point list. This method is preferred over the use of backslash `\ \` for Old Reddit compatibility. 
+- Make use of double line breaks to make the lists feels more spacious, especially on lengthy ones. The example is right here in this bullet point list. This method is preferred over the use of backslash `\ ` for Old Reddit compatibility. 
 
 
 - Same thing applies to the use of `.` instead of `)` when defining an ordered list. Compatibility stuffs.
