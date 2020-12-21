@@ -4,6 +4,12 @@
 
 &nbsp;
 
+### **What is a VPN?**
+
+Virtual private network (VPN) is a service that gives you online privacy by masking your internet protocol (IP) address so that all of your online actions are virtually untraceable unless your VPN service provider keep logs - which we highly recommend you to stay away from such providers.
+
+&nbsp;
+
 ### **Do I need to use a VPN for torrenting?**
 
 If you are in a country (or have an ISP) that actively enforces copyright laws, it is highly recommended that you use a VPN while joining public torrent swarms.
@@ -12,7 +18,7 @@ If you are in a country (or have an ISP) that actively enforces copyright laws, 
 
 ### **Do I need a VPN for streaming or DDL?**
 
-It is highly unlikely to receive a DMCA (or equivalent) notice from streaming sites or DDL.
+It is highly unlikely to receive a DMCA (or equivalent) notice from streaming sites or DDL. There are also many streaming sites that does not allow the use of VPN, so please 
 
 &nbsp;
 
