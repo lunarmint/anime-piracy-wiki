@@ -48,7 +48,7 @@ Streaming apps guide for iOS and Android.
 
 ---
 
-Useful information about how, where, and which one should you torrent from.
+General useful information about torrenting.
 
 &nbsp;
 
@@ -56,6 +56,6 @@ Useful information about how, where, and which one should you torrent from.
 
 ---
 
-Everything about VPN: why and how you should use, as well as which one to choose from hundreds of VPN service providers.
+Basic information you should know about VPN.
 
 &nbsp;
