@@ -1,4 +1,4 @@
-# **Welcome to the /r/animepiracy index page!**
+# **Welcome to /r/animepiracy index page!**
 
 &nbsp;
 
@@ -13,15 +13,15 @@
 
 &nbsp;
 
-## **► Resources**
+## **► Wiki**
 
 - [The Index](https://ranimepiracy.github.io/index/)
 
-  > A resource containing links and information for (most) streaming sites, streaming applications, manga sites, light novel sites, visual novel sites, and fake clone sites that you should avoid.
+  > A resource containing links and information for (most) streaming sites, streaming applications, manga sites, light novel sites, visual novel sites.
 
-- [Wiki](https://www.reddit.com/r/animepiracy/about/wiki/faq)
+- [FAQ](https://www.reddit.com/r/animepiracy/about/wiki/faq)
 
-  > A resource that will answer the frequently asked questions about everything from streaming, finding soundtrack, torrenting, VPN, etc.
+  > Commonly asked questions related to the piracy of "weeb" media in general.
 
 - [Guides](https://www.reddit.com/r/animepiracy/wiki/main/guides)
 
