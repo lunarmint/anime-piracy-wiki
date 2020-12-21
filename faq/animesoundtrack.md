@@ -4,7 +4,7 @@
 
 &nbsp;
 
-### **Where can I find high quality anime OP/ED/Soundtrack?**
+### **Where can I download high quality anime OP/ED/Soundtrack?**
 
 1. https://sukidesuost.info/
 2. https://hikarinoakari.com/
