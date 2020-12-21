@@ -42,6 +42,6 @@ Great! All of the OP/EDs should now be completed!
 
 &nbsp;
 
-Written by u/ZeMuffenMan - [Original Post](https://www.reddit.com/r/animepiracy/comments/d44j33/tutorial_how_to_download_every_oped_in_your/)
+Written by /u/ZeMuffenMan - [Original Post](https://www.reddit.com/r/animepiracy/comments/d44j33/tutorial_how_to_download_every_oped_in_your/)
 
 &nbsp;

@@ -65,6 +65,6 @@ There are two main benefits to using this app over things. Firstly, this app get
 
 &nbsp;
 
-Written by u/jsefff - [Original Post](https://www.reddit.com/r/animepiracy/comments/e2t6gl/automate_your_seasonal_anime_downloads/)
+Written by /u/jsefff - [Original Post](https://www.reddit.com/r/animepiracy/comments/e2t6gl/automate_your_seasonal_anime_downloads/)
 
 &nbsp;

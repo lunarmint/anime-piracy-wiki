@@ -86,6 +86,6 @@ Have fun!
 
 ---
 
-Written by u/Altin1337 - [Original Post](https://www.reddit.com/r/animepiracy/comments/ctinwu/guide_using_ircxdcc_to_download_anime/)
+Written by /u/Altin1337 - [Original Post](https://www.reddit.com/r/animepiracy/comments/ctinwu/guide_using_ircxdcc_to_download_anime/)
 
 &nbsp;

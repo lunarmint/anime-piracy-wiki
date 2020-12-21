@@ -28,6 +28,6 @@ If you want a slightly more comprehensive guide, follow [this guide](https://www
 
 &nbsp;
 
-Written by u/YangWenli1 - [Original Post](https://www.reddit.com/r/KissAnime/comments/d884j2/simplifiedguide_how_to_bypass_the_adblock_ban/)
+Written by /u/YangWenli1 - [Original Post](https://www.reddit.com/r/KissAnime/comments/d884j2/simplifiedguide_how_to_bypass_the_adblock_ban/)
 
 &nbsp;

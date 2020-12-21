@@ -40,8 +40,8 @@ And that's it! If you get stuck, please let me know. I will do my best to help y
 
 &nbsp;
 
-Written by u/RubyNero - [Original Post](https://www.reddit.com/r/animepiracy/comments/d4tmfh/guide_the_easiest_way_to_stream_anime_and_bypass/)
+Written by /u/RubyNero - [Original Post](https://www.reddit.com/r/animepiracy/comments/d4tmfh/guide_the_easiest_way_to_stream_anime_and_bypass/)
 
-12/21/2020: Revised by u/BigBlackCough
+12/21/2020: Revised by /u/BigBlackCough
 
 &nbsp;
