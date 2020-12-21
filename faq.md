@@ -4,9 +4,9 @@
 
 &nbsp;
 
-This page contains a list of frequently asked questions that is most commonly asked by users.
+This page contains a list of the most commonly asked question by the community members.
 
-The page covers various topics ranging from where and how to find anime-related contents, to more specific ones including but not limited to what you need to know while finding torrents, choosing VPN, finding apps, how to join specific sites, etc.
+This section covers various topics ranging from where and how to find anime-related contents, to more specific ones including but not limited to what you need to know while finding torrents, choosing VPN, finding apps, how to join specific sites, etc.
 
 If you want to contribute to the guide, please post it in our subreddit or contact us via Discord.
  
