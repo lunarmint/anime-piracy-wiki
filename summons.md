@@ -4,7 +4,7 @@
 
 &nbsp;
 
-We offer a variety of commands that can be used to quickly get information or respond to messages. These can be used in any thread (with the exception of the WCIF megathread unless you start your message with NLFA) and work with or without additional text in your message.
+We offer a variety of commands that can be used to quickly get information or respond to a message. These can be used in any thread (except the WCIF megathread unless you start your message with NLFA) and work with or without additional text in your message.
 
 The command should always start with `!summon`, a single space, and then the keyword you want to call. The command will **NOT** work with a space between the exclamation mark and the word summon. Example `! summon top` will not work as there is a space between `!` and `summon`.
 

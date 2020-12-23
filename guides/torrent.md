@@ -24,16 +24,16 @@ The process of sharing files through torrents is completely legal. Transferring 
 
 ### **Why should I use torrents?**
 
-For many people, streaming services are more convenient to use. However, torrenting is fairly simple and allows for more flexibility. Some reasons to use torrents are: 
+For many people, streaming services are more convenient to use. However, torrenting is fairly simple and allows for more flexibility. Some reasons to use torrents are:
 
 - A range of qualities and sizes.
-  
+
 
 - Better subtitling and style options.
-  
+
 
 - Easier access to a larger variety of titles.
-  
+
 
 - Downloaded files for rewatching with no additional data usage.
 
@@ -198,7 +198,7 @@ The tracker is a server that gives you a list of peers to connect to. A few trac
 
 Port forwarding is useful to make sure you are fully connectable to maximize your speeds and ability to connect to other peers in a swarm.
 
-Your connection is assigned a public IP address by your ISP and your device is assigned a private/local IP address bu your router. On your computer, services which need to connect with other devices over any network run on a port. The IP address plus port number is it's identification, this combination can be used to access the service in the format IP:port.When you run the torrent client, it runs on a port on your computer's IP address, which is local and can only be accessed by devices connected to your home network. 
+Your connection is assigned a public IP address by your ISP and your device is assigned a private/local IP address by your router. On your computer, services which need to connect with other devices over any network run on a port. The IP address plus port number is its identification, this combination can be used to access the service in the format IP:port.When you run the torrent client, it runs on a port on your computer's IP address, which is local and can only be accessed by devices connected to your home network. 
 
 This port on your internal IP has to be forwarded/connected to the equivalent port on your external/public IP. Once that is done, anyone over the internet will be able to connect to your torrent client through that port on your public IP as the connection will be forwarded by your router to where the torrent client is running on your internal network. Note that this is completely safe.
 
@@ -218,7 +218,7 @@ A seedbox is a server, a computer in a datacenter with high bandwidth/speeds. It
   - Seeding: A seedbox is on 24/7 seeding your torrents at high speeds, that allows you to maintain a good ratio on private (and public) trackers.
     
 
-  - Running your own VPN (If you're paying for a VPS, you can set up whatever you like on it- not just a VPN. However if you're only paying for a seedbox that will not be possible.
+  - Running your own VPN (If you're paying for a VPS, you can set up whatever you like on it- not just a VPN. However, if you're only paying for a seedbox that will not be possible.
     
 
   - Many seedboxes support third-party plugins such as Sonarr, Plex servers, etc.
@@ -237,9 +237,6 @@ Check out r/seedboxes for more information. They are geared towards private trac
 
 - Nyaa.si (mirror - meowinjapanese.cf)
 
-  
-- Nyaa.pantsu.net (not the same as Nyaa.si)
-
 
 - Nyaa.net (another Nyaa, different than the others)
 
@@ -252,7 +249,7 @@ Check out r/seedboxes for more information. They are geared towards private trac
   
 - Rutracker (Russian, Google Translate works fine)
 
-Refer to this [detailed guide]() for finding anime on nyaa and elsewhere. If you're in a rush, try searching for these terms on nyaa.
+&nbsp;
 
 ### **Private**
 
@@ -273,6 +270,7 @@ Refer to this [detailed guide]() for finding anime on nyaa and elsewhere. If you
 Lists of best releases:
 
 - [SeaSmoke's Anime Index](https://docs.google.com/spreadsheets/d/1emW2Zsb0gEtEHiub_YHpazvBd4lL4saxCwyPhbtxXYM/htmlview#)
+
 
 - [A Certain Fansubber's Index](https://docs.google.com/spreadsheets/d/1PJYwhjzLNPXV2X1np-S4rdZE4fb7pxp-QbHY1O0jH6Q/htmlview)
 

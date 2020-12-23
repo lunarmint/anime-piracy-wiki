@@ -6,16 +6,26 @@
 
 ### **Where can I download high quality anime OP/ED/Soundtrack?**
 
-1. https://sukidesuost.info/
-2. https://hikarinoakari.com/
+- Direct download:
+  - https://sukidesuost.info/
+  - https://hikarinoakari.com/
+   
+
+- Torrent:
+  - https://nyaa.si/
+  - https://nipponsei.minglong.org/releases/
 
 &nbsp;
 
 ### **I don't like downloading, are there any streaming/podcast sites?**
 
-1. https://listen.moe/
-2. https://animemusic.org/
-3. https://ostlist.netlify.app/
+- https://listen.moe/
+   
+
+- https://animemusic.org/
+   
+
+- https://ostlist.netlify.app/
 
 &nbsp;
 
