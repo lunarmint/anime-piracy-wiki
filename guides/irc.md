@@ -10,7 +10,7 @@ The main advantage to using this method is that IRC bots are usually the fastest
 
 This is a guide created for people who want to use the IRC protocol to directly download anime into their computers.
 
-Whether you choose IRC or another method is entirely up to you. I'm not here to change your mind. We've written a guide to help you choose the method that works best for you.
+Whether you choose IRC or another method is entirely up to you. This guide will help you to choose the method that works best.
 
 For this guide, we're going to be using the HexChat app to connect to the #nibl channel, from which I will teach you to download any anime episode (even in large batches).
 
