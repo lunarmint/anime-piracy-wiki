@@ -18,6 +18,14 @@ Most (if not all) of the streaming sites content is a direct rip from the offici
 
 &nbsp;
 
+### **How long will I have to wait for the newest anime episode to be available on streaming sites and torrents?**
+
+For a direct web rip from Crunchyroll/Funimation, expect it to be less than 5 minutes for torrents. For streaming sites, expect it to be from 20 minutes to 1 hour.
+
+High quality fan sub is highly dependent on the translators. Hence, there is no estimation.
+
+&nbsp;
+
 ### **I have issue X with this streaming site/application, where should I seek for advices?**
 
 Tech support discussions are typically only allowed in our [Discord server](https://discord.gg/53EfBVH). If you can't find any help there, please refer to the FAQ section, github wiki, or contact the moderators/creators of such service/application you are using via their Discord (preferred), subreddit, mod mail, or email.
@@ -40,6 +48,6 @@ Not every block is implemented the same, so the only way to figure out is by tri
 - If it's a deep packet inspection (DPI) block, you may have some success with DPI circumvention tools such as [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) or [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android).
 
 
-- Otherwise, a VPN with servers in a country without censorship blocks will usually work. [Refer to our VPN FAQ section for more information.](https://www.reddit.com/r/animepiracy/wiki/faq#wiki_vpn_faq)
+- Otherwise, a VPN with servers in a country without censorship blocks will usually work. [Refer to our VPN FAQ section for more information](https://www.reddit.com/r/animepiracy/wiki/faq#wiki_vpn_faq).
 
 &nbsp;
