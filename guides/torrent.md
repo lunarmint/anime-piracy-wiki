@@ -51,13 +51,14 @@ Two ways to anonymize yourself is to use a [VPN](faq-vpn) or [seedbox]() if you 
 
 This is the program where you add torrents, connect to other peers, and download the files. 
 
-|Name|Downloads|Open-source|OS|Plugin support|Command Line|
-:--|:--|:--|:--|:--|:--|
-|[qBitTorrent](https://www.qbittorrent.org/download.php)|Yes|Windows, Linux, OS X|Yes|Plugin|
-|[Transmission](https://transmissionbt.com/download/)|Yes|Windows, Linux, OS X|Yes|Yes|
-|[Deluge](https://dev.deluge-torrent.org/wiki/Download)|Yes|Windows, Linux, OS X|Yes|Yes|
-|[rTorrent](https://github.com/rakshasa/rtorrent)|Yes|Linux|No|Yes (Only)|
+|Name|Open-source|OS|Plugin support|Command Line|
+:--|:--|:--|:--|:--|
+|[qBitTorrent](https://www.qbittorrent.org/download.php)|Yes|Windows, Linux, macOS|Yes|Plugin|
+|[Transmission](https://transmissionbt.com/download/)|Yes|Windows, Linux, macOS|Yes|Yes|
+|[Deluge](https://dev.deluge-torrent.org/wiki/Download)|Yes|Windows, Linux, macOS|Yes|Yes|
+|[rTorrent](https://github.com/rakshasa/rtorrent)|Yes|Linux|Yes|Yes (Only)|
 |[LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)|Yes|Android|No|No|
+|[Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)|No|Android|No|No|
 
 Note: Bittorrent Inc. has bundled malware (a bitcoin miner) into [uTorrent in the past](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825) - it is not trustworthy. Bittorrent (the torrent client) is owned by the same company.
 
