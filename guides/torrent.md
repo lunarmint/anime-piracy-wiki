@@ -53,90 +53,34 @@ This is the program where you add torrents, connect to other peers, and download
 
 |Name|Downloads|Open-source|OS|Plugin support|Command Line|
 :--|:--|:--|:--|:--|:--|
-|qBitTorrent|[https://www.qbittorrent.org/download.php](https://www.qbittorrent.org/download.php)|Yes|Windows, Linux, OS X|Yes|Plugin|
-|Transmission|[https://transmissionbt.com/download/](https://transmissionbt.com/download/)|Yes|Windows, Linux, OS X|Yes|Yes|
-|Deluge|[https://dev.deluge-torrent.org/wiki/Download](https://dev.deluge-torrent.org/wiki/Download)|Yes|Windows, Linux, OS X|Yes|Yes|
-|rTorrent|[https://github.com/rakshasa/rtorrent](https://github.com/rakshasa/rtorrent)|Yes|Linux|No|Yes (Only)|
-|LibreTorrent|[https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)|Yes|Android|No|No|
-|Flud|[https://play.google.com/store/apps/details?id=com.delphicoder.flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)|No|Android|No|No|
+|[qBitTorrent](https://www.qbittorrent.org/download.php)|Yes|Windows, Linux, OS X|Yes|Plugin|
+|[Transmission](https://transmissionbt.com/download/)|Yes|Windows, Linux, OS X|Yes|Yes|
+|[Deluge](https://dev.deluge-torrent.org/wiki/Download)|Yes|Windows, Linux, OS X|Yes|Yes|
+|[rTorrent](https://github.com/rakshasa/rtorrent)|Yes|Linux|No|Yes (Only)|
+|[LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)|Yes|Android|No|No|
+
+Note: Bittorrent Inc. has bundled malware (a bitcoin miner) into [uTorrent in the past](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825) - it is not trustworthy. Bittorrent (the torrent client) is owned by the same company.
+
+Bitlord [is malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
 
 &nbsp;
 
-**Some popular client plugins and mods for automation** - via /u/psbankar/ and /u/plissk3n/
+**Some popular client plugins and mods for automation** -
 
-- [Radarr](https://github.com/Radarr/Radarr): Manages your movie library.
+- [Transdrone](https://f-droid.org/packages/org.transdroid.full/) - Remote torrent management app for your torrent client running on your main PC. Supports several torrent clients
+
+
+- [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - Remote torrent management app with support for managing Sonarr / Radarr / Lidarr / Bazarr / Sickbeard / Couchpotato / Headphones
+
+
+- [ruTorrent](https://github.com/Novik/ruTorrent) or [Flood ](https://github.com/Flood-UI/flood) - Web UI for rtorrent
 
 
 - [Sonarr](https://github.com/Sonarr/Sonarr): Manages your TV library.
 
 
-- [Lidarr](https://github.com/lidarr/Lidarr): Manages your music library.
+- [Jackett](https://github.com/Jackett/Jackett): Meta indexer for torrent sites. Can be connected to qBit via plugin.
 
-
-- [Jackett](https://github.com/Jackett/Jackett): Meta indexer for torrent sites.
-
-
-- [Traktarr](https://github.com/l3uddz/traktarr): Add content to Radarr/Sonarr from Trakt.tv.
-
-
-- [Bazarr](https://github.com/morpheus65535/bazarr): Manages subtitles.
-
-
-- [Syncarr](https://github.com/syncarr/syncarr): Syncs two Radarr/Sonarr/Lidarr instances.
-
-
-- [Tdarr](https://github.com/HaveAGitGat/Tdarr): Automating media transcode/remux management and making sure your files are exactly how you need them to be in terms of codecs/streams/containers.
-
-
-- [Readarr](https://github.com/Readarr/Readarr): Book, Magazine, Comics Ebook and Audiobook Manager and Automation.
-
-
-- [Organizr](https://github.com/causefx/Organizr): Feature rich landing page.
-
-
-- [Ombi](https://github.com/tidusjar/Ombi): User requests for media with Radarr/Sonarr/Lidarr integration.
-
-
-- [Bobarr](https://github.com/iam4x/bobarr): The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker.
-
-
-- [Listrr](https://github.com/TheUltimateC0der/Listrr): With listrr.pro, you can create personalized trakt.tv lists for tv shows and movies with a variety of different filters, and use them with your ultimate PLEX setup.
-
-
-- [Mylar3](https://github.com/mylar3/mylar3): Manages your comic library.
-
-
-- [Wantarr](https://github.com/l3uddz/wantarr): CLI tool for Radarr/Sonarr.
-
-
-- [Requestrr](https://github.com/darkalfx/requestrr):   Chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat!
-
-
-- [Bonarr](https://github.com/bonarr/Bonarr):  Independent fork of Radarr reworked for automatically downloading adult movies via Usenet and BitTorrent.
-
-
-- [Lazy Librarian](https://lazylibrarian.gitlab.io/): Books and Audiobooks manager and automation.
-
-
-- [NzbHydra](https://github.com/theotherp/nzbhydra2):  Meta  search for newznab indexers and torznab trackers.
-
-
-- [Pulsarr](https://github.com/roboticsound/Pulsarr): Browser extension for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
-
-
-- [Invitarr](https://github.com/Sleepingpirates/Invitarr):  Chatbot that invites discord users to plex.
-
-
-- [Gaps](https://github.com/JasonHHouse/gaps):  Gaps searches through your Plex Server or local folders for all movies, then queries for known movies in the same collection.
-
-
-- [Tautulli](https://github.com/Tautulli/Tautulli):  Application for monitoring, analytics and notifications for [Plex Media Server](https://plex.tv/).
-
-
-- [Unpackerr](https://github.com/davidnewhall/unpackerr):  It checks for completed downloads and extracts them so Radarr and/or Sonarr and/or Lidarr may import them.
-
-
-- [mdblist.com](https://mdblist.com/): listrr.pro alternative with scrapped movie ratings from imdb, tmdb, trakt, letterboxd, rottentomatoes and metacritics. 
 
 &nbsp;
 
@@ -152,7 +96,7 @@ A .torrent file can be added to the client by simply opening by double clicking 
 
 A magnet link can be opened by pasting into the client or by clicking on it within the browser. It'll prompt for allowing your torrent client to open, check always allow on that for an easier experience.
 
-Most clients will begin leeching/downloading when you add the torrent, and being seeding/uploading once just a few pieces have downloaded, then will continue seeding after the torrent finishes downloading.
+Most clients will begin leeching/downloading when you add the torrent, and being seeding/uploading once just a few pieces have downloaded, then will continue seeding after the torrent finishes downloading. Seeding is the way you give back to the swarm you leech from.
 
 &nbsp;
 
@@ -176,11 +120,9 @@ A better method is to add multiple trackers through the default search plugin ca
 
 ### **RSS**
 
-This is the simplest way of automating downloads. It's a link on a website that is autogenerated by that website whenever a new torrent is listed on it. It takes the metadata of that torrent and lists it on its site, but it also puts the information into an file called an RSS feed.
+This is the simplest way of automating downloads. An RSS feed gives information about newly uploaded torrents. It can be used by a torrent client to automatically grab downloads based on some filters. The client can be left running in the background, and it'll download the episode as soon as it comes out.
 
-Most torrent clients can automatically check this file every once in a while and automatically download the torrents within, and can be filtered based on various things like name, uploader, size, format, quality, or encoding, as long as it's listed in the information on the feed.
-
-**Note:** The client can be left running in the background, and it'll download the episode as soon as it comes out.
+Check out the [auto download guide]() for more information
 
 &nbsp;
 
@@ -266,13 +208,6 @@ Check out r/seedboxes for more information. They are geared towards private trac
   
 
 - Skyeysnow (open signup)
-
-Lists of best releases:
-
-- [SeaSmoke's Anime Index](https://docs.google.com/spreadsheets/d/1emW2Zsb0gEtEHiub_YHpazvBd4lL4saxCwyPhbtxXYM/htmlview#)
-
-
-- [A Certain Fansubber's Index](https://docs.google.com/spreadsheets/d/1PJYwhjzLNPXV2X1np-S4rdZE4fb7pxp-QbHY1O0jH6Q/htmlview)
 
 &nbsp;
 
