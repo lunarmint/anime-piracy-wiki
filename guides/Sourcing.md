@@ -56,11 +56,11 @@ Quality might be somewhat subjective. The best release for the purpose of this g
 
 The official BDMV, from the blurays, is itself an encode of the actual source. It often suffers from issues like banding, blocking, noise, ringing, aliasing, etc. These might be originating from a variety of reasons. For example, a lot of anime is native 720p and is upscaled to 1080p for the bluray. Even if issues aren't present in the bdmv, they can appear in the encode because of compression. This fixing is called filtering, a step which comes before encoding. The video is filtered with Avisynth/Vapoursynth before passing it on to the encoder.
 
-Examples of problems - http://bakashots.me/guide/index.php
+- [Examples of problems](http://bakashots.me/guide/index.php)
 
-Encoding guides and more examples - https://guide.encode.moe, https://silentaperture.gitlab.io/mdbook-guide/introduction.html
+- [Encoding guides and more examples](https://silentaperture.gitlab.io/mdbook-guide/introduction.html)
 
-Mini encodes and audio - https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/
+- [Mini encodes and audio](https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/)
 
 &nbsp;
 
@@ -102,9 +102,9 @@ Remux groups will mention the sources used for video and subtitles in the torren
 
 If you're in a rush to get something, try searching on nyaa with the recommended release from - 
 
-- seadex - https://docs.google.com/spreadsheets/d/1emW2Zsb0gEtEHiub_YHpazvBd4lL4saxCwyPhbtxXYM/htmlview
+- [Smoke's Anime Index](https://docs.google.com/spreadsheets/d/1emW2Zsb0gEtEHiub_YHpazvBd4lL4saxCwyPhbtxXYM/htmlview)
 
-- cartel - https://docs.google.com/spreadsheets/d/1PJYwhjzLNPXV2X1np-S4rdZE4fb7pxp-QbHY1O0jH6Q/htmlview
+- [A Certain Fansubber's Index](https://docs.google.com/spreadsheets/d/1PJYwhjzLNPXV2X1np-S4rdZE4fb7pxp-QbHY1O0jH6Q/htmlview)
 
 A lot of releases were compared by various people and compiled into these sheets to make it easier for you. However, these don't cover all the anime that exists. The subtitle preferences in that might not match with your own or the best video might not be compatible with your setup. It's always better to have an idea about these things yourself so you can always find what you need. Read on to obtain that knowledge.
 
