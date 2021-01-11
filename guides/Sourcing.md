@@ -1,5 +1,7 @@
 # Basics
 
+&nbsp;
+
 ### Video
 
 .mkv and .mp4 are containers. They can contain various video, audio, and subtitle streams within them. Even the exact same video can be placed in both containers. You can losslessly convert from one to the other with [ffmpeg](https://ffmpeg.org/download.html)
@@ -14,6 +16,7 @@
 
 The full information for a video will look like - x264 High 10 .mkv (codec)(profile)(bit depth)(container)
 
+&nbsp;
 
 ### Audio
 
@@ -33,14 +36,19 @@ A good benchmark for bitrates(stereo/2.0) is -
 
 Below these, the loss might be enough to adversely affect the experience. For surround audio, multiply these with the number of stereo pairs.
 
+&nbsp;
+
 ### Subtitles
 
 Most anime subtitles are in the .ass format, it has better styling options compared to srt. This styling often breaks when there is incompatibility somewhere in the playback process.
 
 Fansubs use a variety of fonts in subtitles. These are bundled within the .mkv files as attachments or provided separately in a folder. They can be installed on windows or placed in your player's fonts folder for a quick solution. It's recommended to mux them in for perfect compatibility.
 
+&nbsp;
 
 # Sourcing
+
+&nbsp;
 
 ## Quality
 
@@ -53,6 +61,8 @@ Examples of problems - http://bakashots.me/guide/index.php
 Encoding guides and more examples - https://guide.encode.moe, https://silentaperture.gitlab.io/mdbook-guide/introduction.html
 
 Mini encodes and audio - https://kokomins.wordpress.com/2019/10/10/anime-encoding-guide-for-x265-and-why-to-never-use-flac/
+
+&nbsp;
 
 ## Types of releases
 
@@ -86,6 +96,8 @@ Remux groups will mention the sources used for video and subtitles in the torren
 
 - Trash - DKB, HR, SSA, FFA and any of the other new groups re-encoding seasonal web releases.
 
+&nbsp;
+
 ## Torrents
 
 If you're in a rush to get something, try searching on nyaa with the recommended release from - 
@@ -96,6 +108,7 @@ If you're in a rush to get something, try searching on nyaa with the recommended
 
 A lot of releases were compared by various people and compiled into these sheets to make it easier for you. However, these don't cover all the anime that exists. The subtitle preferences in that might not match with your own or the best video might not be compatible with your setup. It's always better to have an idea about these things yourself so you can always find what you need. Read on to obtain that knowledge.
 
+&nbsp;
 
 ### Searching
 
@@ -109,6 +122,8 @@ First, change the All Categories option to `Anime - English Translated`. It can 
 
 Once you have the search results, they are sorted by date(newest) by default. Sorting by seeds or completed downloads might help in finding the best release.
 
+&nbsp;
+
 **Example Search**
 
 For a complete example, let's take [KonoSuba](https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo), the long title is complicated enough to make searching hard. Suppose I want to watch this on a TV, and a compatibility check reveals that I can't play x264 10-bit(hi10p) . 
@@ -121,6 +136,8 @@ Most releases are tagged both hevc and x265, explicitly mentioning only 265 like
 
 Note that all of the above information is intentionally complicated to give you a better idea of the process. What you'll need for most actual searches is just `Anime name BD` or `Anime name hevc` for smaller sizes.
 
+&nbsp;
+
 ### Fansubs
 
 Older anime was subbed by a variety of fansub groups. Every good release will mention the sources used for subtitles, the edits made, and often describe their choice of subtitles. A very good resource for fansub reviews was MyAnimeList. They removed the fansub reviews section a few years ago towards their goal of legitimization, since fansubs are associated with piracy. Luckily, the data was archived and [can be brought back on the MAL page itself through this](https://www.reddit.com/r/anime/comments/9kq1ch/bringing_fansubs_back_on_mal/). Fair warning, the reviews are mostly filled with hate and trolls but often give you an idea of which group used which script. You can also make out the kind of translation and how much it is localized. Localization means changing cultural references and puns to fit the English or sometimes American context. A degree of localization is always involved with translation to make sure the dialogue flows smoothly, but some people may find too much of it a problem. 
@@ -129,6 +146,7 @@ Most newer fansubbed anime is some variation of edited official subs from CR or 
 
 AnimeTosho is a very useful resource for grabbing just the subtitles from any release on nyaa. You search the title as it is on nyaa and after opening the page you'll see `All Attachments` near the bottom. This will download all subtitles and fonts extracted from that release. It's also useful to get the mediainfo when the uploader hasn't posted it, to do this, just click on any of the mkv files in the torrent and you'll get details about it. Animetosho is also a DDL site which uploads torrents from nyaa to various hosting services. There's also an NZB option, but none of these last for long.
 
+&nbsp;
 
 ## DDL
 
@@ -138,7 +156,11 @@ AnimeTosho is a very useful resource for grabbing just the subtitles from any re
 
 - Animetosho(usenet) - mirrors most torrents posted on TokyoTosho, Anidex and Nyaa's English translated anime category onto various file hosting services, as well as usenet. Screenshots, mediainfo, subtitles are also extracted and posted.
 
+&nbsp;
+
 # Playback
+
+&nbsp;
 
 ## Compatibility
 
@@ -151,6 +173,8 @@ If you're watching on a TV/+Android box, you'll see a list of supported codecs i
 h264 8-bit works everywhere
 h264 10-bit rarely works without a decent cpu. Hardware decode for this is non-existent.
 h265 8-bit and 10-bit work when hardware support exists. Most newer devices in the last 5 years support it.
+
+&nbsp;
 
 ## Video players
 
@@ -182,12 +206,15 @@ Transcoding on these media servers utilizes the cpu on your machine where it is 
 
 - [Emby's Kodi addon](https://emby.media/emby-for-kodi.html)
 
+&nbsp;
 
 ## Advanced
 
 Typesetting - Anime usually has .ass subtitle styling, while the subs will show up on most TVs and players (plex, emby, jellyfin etc.), the typesetting or overlapping dialogue is sometimes broken. This is especially a problem if you're watching fansubs. **Kodi** is one of the few players which supports proper ass rendering. Note that the player is separate from the kodi media server and can even be used with plex.
 
 Ordered Chapters/mkv linking -  On some releases(like coalgirls), the OP/ED are removed from the episodes and placed into separate files. These files are then linked to the appropriate position in the episodes where they are supposed to play. While this is a great idea to save space, unfortunately, it doesn't work on a lot of players and the OP/ED is never played. If you notice this while watching anime, OCs are the most probable cause.
+
+&nbsp;
 
 ### Muxing
 
