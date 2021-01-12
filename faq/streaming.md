@@ -33,6 +33,12 @@ Please refer to our [index](https://ranimepiracy.github.io/index/). We have a co
 
 &nbsp;
 
+### **I really like site X but it reeks of ads. How do I get rid of them?**
+
+Use uBlock Origin (recommended) or AdGuard AdBlock. Both are browser extensions that can be found on the plugin store of Google Chrome and Firefox.
+
+&nbsp;
+
 ### **Is X website trustworthy? Can it harm my PC?**
 
 You're always taking a gamble when using piracy sites. Do your research about the site you're using.
