@@ -51,14 +51,14 @@ Two ways to anonymize yourself is to use a [VPN](faq-vpn) or [seedbox]() if you 
 
 This is the program where you add torrents, connect to other peers, and download the files. 
 
-|Name|Downloads|Open-source|OS|Plugin support|Command Line|
-:--|:--|:--|:--|:--|:--|
-|qBitTorrent|[https://www.qbittorrent.org/download.php](https://www.qbittorrent.org/download.php)|Yes|Windows, Linux, OS X|Yes|Plugin|
-|Transmission|[https://transmissionbt.com/download/](https://transmissionbt.com/download/)|Yes|Windows, Linux, OS X|Yes|Yes|
-|Deluge|[https://dev.deluge-torrent.org/wiki/Download](https://dev.deluge-torrent.org/wiki/Download)|Yes|Windows, Linux, OS X|Yes|Yes|
-|rTorrent|[https://github.com/rakshasa/rtorrent](https://github.com/rakshasa/rtorrent)|Yes|Linux|No|Yes (Only)|
-|LibreTorrent|[https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)|Yes|Android|No|No|
-|Flud|[https://play.google.com/store/apps/details?id=com.delphicoder.flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)|No|Android|No|No|
+|Name|Open-source|OS|Plugin support|Command Line|
+:--|:--|:--|:--|:--|
+|[qBitTorrent](https://www.qbittorrent.org/download.php)|Yes|Windows, Linux, macOS|No|Plugin|
+|[Transmission](https://transmissionbt.com/download/)|Yes|Windows, Linux, macOS|Yes|Yes|
+|[Deluge](https://dev.deluge-torrent.org/wiki/Download)|Yes|Windows, Linux, macOS|Yes|Yes|
+|[rTorrent](https://github.com/rakshasa/rtorrent)|Yes|Linux|Yes|Yes (Only)|
+|[LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)|Yes|Android|No|No|
+|[Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)|No|Android|No|No|
 
 &nbsp;
 
