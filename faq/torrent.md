@@ -18,7 +18,7 @@ Torrenting itself isn't illegal. However, sharing and downloading copyrighted ma
 
 |Torrenting|Streaming|
 :--|:--|
-|Wide range of quality (audio and video-wise).|Always heavily compressed (cheaper on server storage cost and bandwidth). |
+|Wide range of quality (audio and video-wise).|Always heavily compressed (to reduce server storage and bandwidth cost). |
 |Has high quality fansub.|Official sub is often bad.|
 |Requires a VPN investment.|VPN is not required.|
 |May require storage investment.|No storage investment is needed.|
