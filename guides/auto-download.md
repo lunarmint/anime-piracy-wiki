@@ -4,79 +4,67 @@
 
 &nbsp;
 
-In this guide, I will be using the qBitTorrent client and the SubsPlease RSS feed, but the same process will apply to other clients/feeds as well.
+This guide will use qBittorrent and the SubsPlease RSS feed as an example. If you chose to use another feed, the process should be exactly the same. For other clients, please refer to its documentations to know where the features are located.
 
 **Preparations:**
 
-1. Open up your torrent client. If you don't have an `RSS` tab next to `Transfers` and `Execution Log`, press `View` on the toolbar and make sure `RSS Reader` is checked.
-   
+1. On the toolbar:
+   - Go to `View` and enable `RSS Reader`. A new `RSS` tab will appear next to `Transfers`.
+   - Go to `Tools` -> `Options`, select the `RSS` tab:
+      1. Check `Enable fetching RSS feeds` and set `Feeds refresh interval` to 15 minutes.
+      2. Check `Enable auto downloading of RSS torrents.` Your options should look like [this](https://i.imgur.com/vmAjcpA.png).
+      3. Press `OK`.
+    
 
-2. Next, in that same toolbar go to `Tools` -> `Options` then switch to the `RSS` tab.
-   
+2. Choose the quality that you want to download and copy the corresponding link:
+      - 480p (SD): [https://subsplease.org/rss/?t&r=sd](https://subsplease.org/rss/?t&r=sd)
+      - 720p: [https://subsplease.org/rss/?t&r=720](https://subsplease.org/rss/?t&r=720)
+      - 1080p: [https://subsplease.org/rss/?t&r=1080](https://subsplease.org/rss/?t&r=1080)
+      - All resolutions: [https://subsplease.org/rss?t](https://subsplease.org/rss?t)
 
-3. Check `Enable fetching RSS feeds` and set `Feeds refresh interval` to 15 minutes.
-   
-
-4. Check `Enable auto downloading of RSS torrents.`
-   
-
-5. Press `OK` and you're all set!
-
-Next, choose the quality of the anime episodes that you are going to download and copy the corresponding link:
-
-- 480p (SD): [https://subsplease.org/rss/?t&r=sd](https://subsplease.org/rss/?t&r=sd)
+    **Note:** Do **not** paste this in a browser because it will do nothing.
 
 
-- 720p: [https://subsplease.org/rss/?t&r=720](https://subsplease.org/rss/?t&r=720)
-
-
-- 1080p: [https://subsplease.org/rss/?t&r=1080](https://subsplease.org/rss/?t&r=1080)
-
-
-- All resolutions: [https://subsplease.org/rss?t](https://subsplease.org/rss?t)
-
-Do **not** paste this in a browser, since it will do nothing.
-
-Over at your torrenting client, switch from the `Transfers` tab to the `RSS` tab. This is located right below the toolbar.
-
-Next, press `New subscription` and paste the link you copied earlier into the newly appeared textbox. Press `OK`.
+3. Go to the `RSS` tab:
+    1. Choose `New subscription` and paste the link you copied earlier.
+    2. Press `OK`.
 
 To set up the seasonal anime that you want to download, follow the steps below:
 
 1. At the top-right of the RSS tab, press on the `RSS Downloader...` button.
 
 
-2. In `Download Rules`, press the file icon (next to the trash can icon). A new textbox should appear. Type in the name of the anime you need to auto-download. For this example, I will do `Kimetsu no Yaiba`. Use only the Japanese title of the show, as SubsPlease only offers the anime in their original title.
+2. In `Download Rules`, press the file icon (next to the trash can icon). Pick a name for your filter (anything works).
 
 
-3. Once you've created the rule, change the textbox `Must Contain:` to the exact title of the anime you need to auto-download. Again, I will write `Kimetsu no Yaiba`.
+3. Change the textbox `Must Contain:` to the exact title of the anime you need to auto-download. Use the Japanese title of the show, as SubsPlease only offers the anime in their original title. For example, `Kimetsu no Yaiba`.
 
 
-4. Check `Save to a Different Directory` and then choose where you want the downloaded episodes to save.
+4. **Optional:** In the textbox `Must Not Contain:`, write `batch` to avoid downloading the batch when the season ends. 
+   
+
+5. If your filter works, you'll see the entries under `Matching RSS Articles`.
+   
+
+6. **Optional:** Check `Save to a Different Directory` and choose the download directory for the episodes.
 
 
-5. Finally, check `SubsPlease RSS` under `Apply Rule to Feeds`.
+7. Check `SubsPlease RSS` under `Apply Rule to Feeds`.
 
 
-6. Press `Close`.
+8. Repeat the steps for every seasonal anime you want to download.
 
 
-7. Wash, rinse, and repeat for every seasonal anime you want downloaded (steps 2-6).
-
-You are done! Your favorite seasonal anime will now **AUTO DOWNLOAD** whenever a new episode is out. How cool is that?
+**NOTE:** The client can be left running in the background. The anime episode will be automatically downloaded whenever is released.
 
 **NOTE:** When you first add an anime to the list, the previous episodes may start downloading automatically. This only happens once, but you can always stop the download process from happening for each unwanted episode.
 
-If you don't want to use SubsPlease, you can use any other provider such as Erai-raws. Go into their website and check if they have an RSS menu. If they do, find the desired quality, then copy the link to their feed. You can continue from `New subscription` after you do that.
+Erai-raws is an alternative for SubsPlease. Exclude "v0" releases with the "Must not contain:" filter unless you want double downloads.
+
+You can also use nyaa.si to get an RSS feed of all the release groups by searching or navigating to the user and click `RSS` to get a custom feed.
+
+Alternatively, check out [this guide](https://iamscum.wordpress.com/guides/taiga/) guide for a better way of automating downloads and tracking synced with your Anilist account.
 
 Happy pirating!
-
----
-
-&nbsp;
-
-Written by u/Altin1337 - [Original Post](https://www.reddit.com/r/animepiracy/comments/cv94l8/guide_autodownloading_new_anime_episodes/)
-
-12/27/2020: Revised by /u/BigBlackCough
 
 &nbsp;
