@@ -1,48 +1,72 @@
-# **Torrent FAQ**
+# Torrent FAQ
 
----
-
-&nbsp;
-
-**For a more exhaustive torrenting guide, please check out our guide section [here](https://www.reddit.com/r/animepiracy/about/wiki/guide/torrent).**
 
 &nbsp;
 
-### **Is torrenting illegal?**
+## Is torrenting illegal?
 
 Torrenting itself isn't illegal. However, sharing and downloading copyrighted material may be illegal depending on your local laws. Copyright organizations can send takedown notices to the internet service provider (ISP) of the file transfer participants and start lawsuits against them for infringement.
 
 &nbsp;
 
-### **Torrenting vs streaming, what is the differences?**
+## Torrenting vs streaming, what is the differences?
 
 |Torrenting|Streaming|
 :--|:--|
-|Wide range of quality (audio and video-wise).|Always heavily compressed (to reduce server storage and bandwidth cost). |
-|Has high quality fansub.|Official sub is often bad.|
-|Requires a VPN investment.|VPN is not required.|
-|May require storage investment.|No storage investment is needed.|
-|Low mobility & convenience.|Accessible everywhere.|
-|Stable internet connection is not required.|Requires a stable internet connection.|
-|Guaranteed ad-free experience.|Not always ad-free.|
+|Wide range of quality (audio and video-wise)|Often heavily compressed (to reduce storage/bandwidth costs) |
+|High quality fansubs|Official subs may be bad|
+|Downloaded files are kept locally permanently|Accessibility relies on internet connection|
+|Guaranteed ad-free experience|Not always ad-free|
+|Stable internet connection is not required|Requires a stable internet connection to avoid buffering while streaming|
+|VPN is needed in some countries|VPN is not required|
+|Takes up local storage|No storage is used|
+
 
 &nbsp;
 
-### **Who should I torrent from on nyaa.si?**
+## What torrent clients are recommended?
 
-Torrenting from the green colored entries are encouraged since they are uploaded by trusted users. However, it does not always necessarily means that everything with green entries are the absolute best you can get. While it is subjective what quality one would consider it to be best in a torrent, if you want to find a good balance between everything, we suggest you to try:
+**PC:**
+
+- [qBittorrent](https://www.qbittorrent.org/download.php) - Powerful built-in search feature that can be expanded through plugins and [Jackett](https://github.com/Jackett/Jackett).
+
+- [rTorrent](https://github.com/rakshasa/rtorrent) - Command line torrent client for linux, can be used with [ruTorrent](https://github.com/Novik/ruTorrent) or [Flood](https://github.com/Flood-UI/flood).
+
+- [Transmission](https://transmissionbt.com/about/)
+
+- [Deluge](https://dev.deluge-torrent.org/wiki/Download)
+
+Note: uTorrent has a lot of ads and a poor track record among the torrent community for being nefarious by bundling the app with malware/spyware. It is not trustworthy and Bittorrent (the torrent client) is also owned by the same company.
+
+**Android:**
+
+- [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)
+
+- [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)
+
+&nbsp;
+
+## Where can I find anime torrents?
+
+- Nyaa.si
+
+- [Anidex](https://anidex.info/)
+
+- [TokyoTosho](https://www.tokyotosho.info/?cat=1)
+
+&nbsp;
+
+## Who should I torrent from on nyaa.si?
+
+The groups `Erai-raws` and `Subsplease` upload all currently airing anime. However, they're not the best source for older anime, or those that already have a bluray release. For the absolute best video quality or the best fansubs, try searching for the releases mentioned in - 
 
 - [SeaSmoke's Anime Index](https://docs.google.com/spreadsheets/d/1emW2Zsb0gEtEHiub_YHpazvBd4lL4saxCwyPhbtxXYM/htmlview#)
 
 
 - [A Certain Fansubber's Index](https://docs.google.com/spreadsheets/d/1PJYwhjzLNPXV2X1np-S4rdZE4fb7pxp-QbHY1O0jH6Q/htmlview)
 
-If you are in a rush, try searching for these terms `Erai-raws` or `Subsplease` for seasonal anime.
+Check out the [sourcing guide](https://wiki.piracy.moe/en/guides/sourcing) for more detailed information on finding the best release for any particular anime.
 
-&nbsp;
-
-### **Why should I choose qBitTorrent over uTorrent?**
-
-uTorrent has a poor track record among the torrent community for being nefarious by bundling the app with malware/spyware, tweaking things in user's PC without consent, and has a lot of ads. For those reasons, we suggest you to stay away and use [qBitTorrent](https://www.qbittorrent.org/) (a free and open-source software) instead.
+For more about torrenting, check out the [torrent guide](https://wiki.piracy.moe/en/guides/torrenting).
 
 &nbsp;
