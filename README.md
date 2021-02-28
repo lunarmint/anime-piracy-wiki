@@ -1,1 +1,1 @@
-This wiki is written using [Reddit-flavored Markdown ](https://www.reddit.com/wiki/markdown) but styled based on [Wikipedia's Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#National_varieties_of_English).
+A comprehensive guide for everyone to step into the world of piracy.
